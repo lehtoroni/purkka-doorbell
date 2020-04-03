@@ -7,8 +7,8 @@
 int _buzzer = 4;
 int _button = 0;
 
-const char* ssid = "vaultnet";
-const char* password = "pipboy3000";
+const char* ssid = "";
+const char* password = "";
 
 #include <WiFiServerSecure.h>
 #include <WiFiClientSecure.h>
